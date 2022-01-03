@@ -5,7 +5,7 @@
  	# The portable systems comes first.
  	# Each alternative MUST end in a * to match a version number.
 -	gnu* | android* | bsd* | mach* | minix* | genix* | ultrix* | irix* \
-+	gnu* | android* | bsd* | mach* | minix* | genix* | ultrix* | irix* | utopia \
++	gnu* | android* | bsd* | mach* | minix* | genix* | ultrix* | irix* | utopia* \
  	     | *vms* | esix* | aix* | cnk* | sunos | sunos[34]* \
  	     | hpux* | unos* | osf* | luna* | dgux* | auroraux* | solaris* \
  	     | sym* |  plan9* | psp* | sim* | xray* | os68k* | v88r* \
